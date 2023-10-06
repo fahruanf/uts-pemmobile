@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641706813756",
+    "project_id": "flutterlatihan-94e65",
+    "storage_bucket": "flutterlatihan-94e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641706813756:android:d01fdf7c886d972dee1639",
+        "android_client_info": {
+          "package_name": "com.example.flutterlatihan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxKyJjbbYpZPbcleXaV2YmM21WwKEQRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
