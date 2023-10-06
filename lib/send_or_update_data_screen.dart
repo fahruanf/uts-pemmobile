@@ -41,7 +41,7 @@ class _SendOrUpdateDataState extends State<SendOrUpdateData> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blue.shade900,
+        backgroundColor: Colors.red.shade900,
         centerTitle: true,
         title: Text(
           'Send Data',
@@ -135,7 +135,7 @@ class _SendOrUpdateDataState extends State<SendOrUpdateData> {
               },
               minWidth: double.infinity,
               height: 50,
-              color: Colors.blue.shade900,
+              color: Colors.red.shade900,
               child: showProgressIndicator
                   ? CircularProgressIndicator(
                       color: Colors.white,

@@ -17,10 +17,10 @@ class _HomeScreenState extends State<HomeScreen> {
             Navigator.of(context).push(
                 MaterialPageRoute(builder: (context) => SendOrUpdateData()));
           },
-          backgroundColor: Colors.blue.shade900,
+          backgroundColor: Colors.red.shade900,
           child: Icon(Icons.add)),
       appBar: AppBar(
-        backgroundColor: Colors.blue.shade900,
+        backgroundColor: Colors.red.shade900,
         centerTitle: true,
         title: Text(
           'Home',
@@ -57,7 +57,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 Icon(
                                   Icons.book,
                                   size: 31,
-                                  color: Colors.blue.shade300,
+                                  color: Colors.red.shade300,
                                 ),
                                 SizedBox(width: 11),
                                 Column(
